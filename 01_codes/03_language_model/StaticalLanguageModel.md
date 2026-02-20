@@ -3,10 +3,10 @@
 ## 03-2. 통계적 언어 모델(SLM)
 ### 조건부 확률을 이용한 문장에서 확률
 - 조건부 확률 공식
-![image](</Users/mac/Desktop/Introduction-NLP-using-Deep-Learning/02_images/conditional_probability.png>)
+![image](<02_images/conditional_probability.png>)
 </br>
 - 조건에 대한 확률
-![image](</Users/mac/Desktop/Introduction-NLP-using-Deep-Learning/02_images/word_sequence_probability_2.png>)
+![image](</02_images/word_sequence_probability_2.png>)
 
 ### 카운터 기반 접근
 SLM은 이전 단어에서 다음 단어에 대한 확률을 카운트 기반으로 구한다.
