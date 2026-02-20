@@ -6,6 +6,7 @@
 ![image](../../02_images/conditional_probability.png)
 </br>
 - 조건에 대한 확률
+
 ![image](../../02_images/word_sequence_probability_2.png)
 
 ### 카운터 기반 접근
