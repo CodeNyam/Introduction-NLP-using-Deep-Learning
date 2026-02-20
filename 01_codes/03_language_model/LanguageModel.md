@@ -32,5 +32,5 @@ NLP에서 단어 시퀀스에 확률을 할당하는 것이 왜 필요할까?
 - P(달려갔다) > P(잘려갔다)
 
 ### 단어 시퀀스 확률
-![image](<02_images/conditional_probability.png>)
-![image](<02_images/word_sequence_probability_2.png>)
+![image](../../02_images/conditional_probability.png)
+![image](../../02_images/word_sequence_probability_2.png)
