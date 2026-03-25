@@ -1,3 +1,6 @@
+# venv
+/NLP-DL
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
